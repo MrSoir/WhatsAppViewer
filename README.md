@@ -1,8 +1,9 @@
 # WhatsAppViewer
 <br />
+
 WhatsAppViewer is entirely writtin in Java to achieve platform independence
 <br />
-
+------------------------------------------------------------------------
 Installation:
 ________________________________________________________________________
 1. Download WhatsAppViewer.zip
