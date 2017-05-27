@@ -7,7 +7,7 @@ ________________________________________________________________________
 
 Installation:
 ------------------------------------------------------------------------
-1. Download WhatsAppViewer.zip
+1. Download WhatsAppViewer.zip (gerade im umbau, heute abend wieder verfügbar!)
 2. Extract WhatsAppViewer.zip
 <br />WhatsAppViewer.zip contains the following files:
 <br /><tab indent=20>- WhatsAppViewer.jar
