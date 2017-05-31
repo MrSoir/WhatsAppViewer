@@ -1,7 +1,7 @@
 # WhatsAppViewer
 <br />
 
-WhatsAppViewer is entirely writtin in Java to achieve platform independence
+WhatsAppViewer is entirely written in Java to achieve platform independence.
 <br />
 ________________________________________________________________________
 
